@@ -16,7 +16,8 @@ namespace pryServicio_Internet
 
         public override void CalcularImpuesto()
         {
-            impuesto = costoBase * 0.10f;
+            impuesto = costoBase * 0.10f;//hi
+            //uwu
         }
     }
 }
